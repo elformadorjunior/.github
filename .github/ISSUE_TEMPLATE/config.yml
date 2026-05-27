@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: Seguridad, privacidad o datos sensibles
+    url: https://github.com/elformadorjunior/.github/security/policy
+    about: No publiques datos personales, credenciales ni problemas de seguridad en issues abiertos.
