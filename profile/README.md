@@ -1,0 +1,31 @@
+# El Formador Junior
+
+**Recursos pedagógicos digitales reutilizables para formación de adultos.**
+
+El Formador Junior es un proyecto personal de Joel Concepción Villanueva orientado al diseño, documentación y publicación de recursos formativos claros, ligeros y reutilizables para personas adultas.
+
+## Líneas de trabajo
+
+- Idiomas básicos para adultos.
+- Competencias digitales.
+- IA aplicada al aprendizaje y al trabajo.
+- Empleabilidad.
+- Formación docente FPE.
+- Educación financiera para adultos.
+- Ciencias, datos y pensamiento crítico.
+
+## Criterios del proyecto
+
+- Recursos sencillos, útiles y documentados.
+- Tecnología ligera siempre que sea posible.
+- Privacidad desde el diseño.
+- Accesibilidad práctica.
+- Uso responsable de IA.
+- Materiales complementarios, no oficiales.
+- Orientación a portfolio técnico-docente.
+
+## Estado
+
+Proyecto en fase inicial de organización y consolidación.
+
+Primer recurso piloto: **Repaso Final Francés A1 · Kit interactivo**.
