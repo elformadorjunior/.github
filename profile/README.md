@@ -24,6 +24,16 @@ El Formador Junior es un proyecto personal de Joel Concepción Villanueva orient
 - Materiales complementarios, no oficiales.
 - Orientación a portfolio técnico-docente.
 
+## Recursos publicados
+
+### EFJ-001 · Repaso Final Francés A1 · Kit interactivo
+
+Recurso pedagógico digital complementario para repaso de Francés A1 orientado a alumnado adulto.
+
+- Recurso publicado: https://viconjoe.github.io/repaso-frances-a1-fpe/
+- Repositorio activo: https://github.com/viconjoe/repaso-frances-a1-fpe
+- Estado: v3.2 provisional, recurso piloto de El Formador Junior.
+
 ## Estado
 
 Proyecto en fase inicial de organización y consolidación.
